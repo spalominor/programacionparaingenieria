@@ -1,4 +1,4 @@
-Marca,Submarca,Versión,Modelo,Trans.,Comb.,Cilindros,Potencia (HP),Tamaño (L),Categoría,R. Ciudad (km/l),R. Carr. (km/l),R. Comb. (km/l),R. Ajust. (km/l),CO2(g/km),NOx (g/1000km),Calificación Gas Ef. Inv.,Calificación Contam. Aire
+marca,submarca,version,modelo,transmision,combustible,cilindros,potencia,tamano,categoria,rendimiento_ciudad,rendimiento_carretera,rendimiento_combinado,rendimiento_ajustado,co2,nox,efecto_invernadero,contaminacion_aire
 FORD,FUSION,HIBRIDO 4PTS 2.0L 4CIL 188HP AUT (CVT),2015,CVT,Gasolina,4,188,"2,0",AUTOS COMPACTOS,"27,44","28,57","28,93","21,70","107,00","5,00",10,9
 FORD,FUSION,HIBRIDO 4PTS 2.0L 4CIL 188HP AUT (eCVT),2016,CVT,Gasolina,4,188,"2,0",AUTOS COMPACTOS,"27,44","28,57","28,93","21,70","107,00","0,00",10,9
 FORD,FUSION,HIBRIDO 4X2 4PTAS 2.0L 4CIL 141(+47e)HP E-CVT,2017,CVT,Gasolina,4,188,"2,0",AUTOS COMPACTOS,"25,62","24,77","25,23","18,92","123,00","2,00",10,9
